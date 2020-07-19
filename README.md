@@ -15,6 +15,10 @@ import { clickably } from 'clickably'
 clickably('.my-row')
 ```
 
+#CDN
+
+`<script src="unpkg.com/clickably"></script>`
+
 ## Options
 
 * *action* - _click | dblclick_ (Defaults to click)
